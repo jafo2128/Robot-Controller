@@ -11,8 +11,8 @@ Shop:
 ## Features
 * [TI DRV8838](http://www.ti.com/product/drv8838) Motor Driver (2-11V 1.8A)
 * [FTDI FT232R](http://www.ftdichip.com/Products/ICs/FT232R.htm) USB-UART Bridge (microUSB)
-* 5A Power MOSFET
-* Extension ports for servo motor or sensors
+* Power MOSFET
+* Extension Ports for Servo Motor or Sensors
 
 
 ## Hardware
