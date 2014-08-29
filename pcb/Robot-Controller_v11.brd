@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0125" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -161,6 +161,7 @@ V1.1</text>
 <text x="55.88" y="20.32" size="0.8128" layer="21" font="vector" ratio="13">SCL</text>
 <text x="22.86" y="25.146" size="1.778" layer="21" font="vector" ratio="13">www.watterott.com</text>
 <text x="0" y="-1.27" size="1.27" layer="49" font="vector" ratio="10" align="top-left">Silkscreen: 21 tPlace + 25 tNames</text>
+<text x="0.9525" y="10.4775" size="1.27" layer="21" font="vector" ratio="10">V+</text>
 </plain>
 <libraries>
 <library name="we-chip">
