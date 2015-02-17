@@ -1,11 +1,12 @@
 # Robot-Controller
 Robot-Controller Shield for Wattuino Pro Mini.
 
-Shop: 
-[Robot-Controller Shield](http://www.watterott.com/en/Robot-Controller), 
-[Robot-Controller Shield with Wattuino Pro Mini](http://www.watterott.com/en/Robot-Controller-with-Wattuino-Pro-Mini-5V/16MHz)
-
 [![Robot-Controller](https://raw.github.com/watterott/Robot-Controller/master/pcb/Robot-Controller_v11.jpg)](http://www.watterott.com/en/Robot-Controller)
+
+
+## Shop
+* [Robot-Controller Shield](http://www.watterott.com/en/Robot-Controller)
+* [Robot-Controller Shield with Wattuino Pro Mini](http://www.watterott.com/en/Robot-Controller-with-Wattuino-Pro-Mini-5V/16MHz)
 
 
 ## Features
