@@ -1,7 +1,7 @@
 # Robot-Controller
 Robot-Controller Shield for Wattuino Pro Mini.
 
-[![Robot-Controller](https://raw.github.com/watterott/Robot-Controller/master/pcb/Robot-Controller_v11.jpg)](http://www.watterott.com/en/Robot-Controller)
+[![Robot-Controller](https://github.com/watterott/Robot-Controller/raw/master/hardware/Robot-Controller_v11.jpg)](http://www.watterott.com/en/Robot-Controller)
 
 
 ## Shop
@@ -17,4 +17,4 @@ Robot-Controller Shield for Wattuino Pro Mini.
 
 
 ## Hardware
-* [Schematics + Layout](https://github.com/watterott/Robot-Controller/tree/master/pcb)
+* [Schematics + Layout](https://github.com/watterott/Robot-Controller/tree/master/hardware)
